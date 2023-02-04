@@ -4,3 +4,6 @@ this is modified by user_bis
 this is modified by user_original
 
 partie du merge
+
+new line for testing merge
+
