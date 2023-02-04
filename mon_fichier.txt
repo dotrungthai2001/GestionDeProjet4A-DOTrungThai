@@ -3,3 +3,4 @@ this is modified by user_bis
 
 this is modified by user_original
 
+new line for testing merge
